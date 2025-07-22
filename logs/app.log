@@ -1,0 +1,61 @@
+2025-07-22 08:56:06,024 [http-nio-8081-exec-3] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 08:56:06,040 [http-nio-8081-exec-3] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 08:57:26,506 [http-nio-8081-exec-7] INFO  cadastro_veiculo_spring.controller.ClienteController - Cliente salvo: cadastro_veiculo_spring.model.Cliente@78464b19
+2025-07-22 09:14:25,177 [http-nio-8081-exec-7] INFO  cadastro_veiculo_spring.controller.VendedorController - Vendedor salvo: cadastro_veiculo_spring.model.Vendedor@25fc75f1
+2025-07-22 09:14:44,562 [http-nio-8081-exec-3] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:14:44,572 [http-nio-8081-exec-3] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:14:52,892 [http-nio-8081-exec-6] INFO  cadastro_veiculo_spring.controller.CategoriaController - Categoria salva: cadastro_veiculo_spring.model.Categoria@8d33b30
+2025-07-22 09:15:01,887 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.CategoriaController - Categoria salva: cadastro_veiculo_spring.model.Categoria@26cb9f3c
+2025-07-22 09:15:03,627 [http-nio-8081-exec-10] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:15:03,634 [http-nio-8081-exec-10] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:20:22,746 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:20:22,752 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:25:14,555 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:25:14,562 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:36:54,193 [http-nio-8081-exec-3] INFO  cadastro_veiculo_spring.controller.ClienteController - Cliente salvo: cadastro_veiculo_spring.model.Cliente@1ec76797
+2025-07-22 09:43:35,000 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:43:35,010 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:45:12,074 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:45:12,079 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:45:25,089 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:45:25,095 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:47:17,978 [http-nio-8081-exec-1] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:47:17,992 [http-nio-8081-exec-1] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 09:50:05,247 [http-nio-8081-exec-7] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 09:50:05,254 [http-nio-8081-exec-7] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 10:03:44,889 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:03:45,119 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 10:06:23,828 [http-nio-8081-exec-2] INFO  cadastro_veiculo_spring.controller.VeiculoController - Salvando veículo: cadastro_veiculo_spring.model.Veiculo@53bbaa62 no controller.
+2025-07-22 10:11:42,650 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - Salvando veículo: cadastro_veiculo_spring.model.Veiculo@4f079aa0 no controller.
+2025-07-22 10:12:51,936 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Salvando veículo: cadastro_veiculo_spring.model.Veiculo@561d0047 no controller.
+2025-07-22 10:13:32,494 [http-nio-8081-exec-2] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:13:32,822 [http-nio-8081-exec-2] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 10:14:12,804 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Salvando veículo: cadastro_veiculo_spring.model.Veiculo@33dfdd9f no controller.
+2025-07-22 10:16:59,632 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - Salvando veículo: cadastro_veiculo_spring.model.Veiculo@1b6b0b67 no controller.
+2025-07-22 10:17:09,964 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:17:09,971 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 10:17:39,242 [http-nio-8081-exec-6] INFO  cadastro_veiculo_spring.controller.VeiculoController - Salvando veículo: cadastro_veiculo_spring.model.Veiculo@4e623db6 no controller.
+2025-07-22 10:17:39,394 [http-nio-8081-exec-6] INFO  cadastro_veiculo_spring.controller.VeiculoController - Veículo salvo com sucesso: cadastro_veiculo_spring.model.Veiculo@4e623db6
+2025-07-22 10:17:50,964 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:17:51,028 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:21:43,304 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:21:43,341 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:24:38,579 [http-nio-8081-exec-7] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:24:38,589 [http-nio-8081-exec-7] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:24:47,997 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:24:48,006 [http-nio-8081-exec-5] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:25:30,570 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:25:30,588 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:32:10,640 [http-nio-8081-exec-6] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:32:10,655 [http-nio-8081-exec-6] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:32:25,279 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:32:25,297 [http-nio-8081-exec-8] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:36:55,245 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:36:55,278 [http-nio-8081-exec-9] INFO  cadastro_veiculo_spring.controller.VeiculoController - 1 veículos encontrados.
+2025-07-22 10:37:01,148 [http-nio-8081-exec-1] INFO  cadastro_veiculo_spring.controller.VeiculoController - Deletando veículo no controller. ID: 1
+2025-07-22 10:37:16,638 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:37:16,669 [http-nio-8081-exec-4] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 10:37:41,879 [http-nio-8081-exec-10] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:37:41,888 [http-nio-8081-exec-10] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
+2025-07-22 10:37:56,171 [http-nio-8081-exec-1] INFO  cadastro_veiculo_spring.controller.VeiculoController - Listando veículos no controller.
+2025-07-22 10:37:56,177 [http-nio-8081-exec-1] INFO  cadastro_veiculo_spring.controller.VeiculoController - Nenhum veículo cadastrado: []
